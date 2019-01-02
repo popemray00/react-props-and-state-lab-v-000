@@ -19,7 +19,7 @@ class App extends React.Component {
     this.setState({ filters: {type: val}});
   }
 
-  
+
   render() {
     return (
       <div className="ui container">
